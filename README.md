@@ -15,9 +15,9 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>  
 </p>
 
-###  Experience
-- 🏢 **AI Engineer**, Hanwha General Insurance (2025.06~)
-- **AI Intern**, Samsung Electronics (2025.03~2025.05)
+###  Interested in
+- 🏢 **Programming**
+- **Macroeconomics**, especially monetary theory, Open Economy Macroeconomics
 - **AI Intern**, Hanwha General Insurance (2025.01~2025.02)
 - **Data Science Intern**, Samsung Electronics (2024.03~2024.06)
 - 🏫 Hanyang University, B.S. in **Data Science** (2021.03~2025.08)
