@@ -6,19 +6,16 @@
 
 ### 🐳 About Me
 - 💡 Currently studying International Studies at Kyunghee University
-- 🎓 Majored in Data Science at Hanyang University
+- 💼 Currently learning web/Python programming and object-oriented programming
 - 🎨 Passionate about **LLM**, **RAG**, and **AI Research**
 
 ### 🧠 Tech Stack
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>  
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>  
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>  
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>  
 </p>
 
-### 💼 Experience
+###  Experience
 - 🏢 **AI Engineer**, Hanwha General Insurance (2025.06~)
 - **AI Intern**, Samsung Electronics (2025.03~2025.05)
 - **AI Intern**, Hanwha General Insurance (2025.01~2025.02)
